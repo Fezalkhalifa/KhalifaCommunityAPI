@@ -10,7 +10,7 @@ phases:
   pre_build:
     commands:
       - echo Restore started on `date`
-      - dotnet restore KhalifaCommunityAPI/KhalifaCommunityAPI.csproj
+      - dotnet restore "KhalifaCommunityAPI/KhalifaCommunityAPI.csproj"
       
   build:
     commands:
