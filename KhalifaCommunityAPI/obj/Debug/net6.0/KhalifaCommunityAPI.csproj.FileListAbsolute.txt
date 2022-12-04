@@ -63,8 +63,6 @@ C:\Developement\KhalifaCommunityAPI\KhalifaCommunityAPI\KhalifaCommunityAPI\bin\
 C:\Developement\KhalifaCommunityAPI\KhalifaCommunityAPI\KhalifaCommunityAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Developement\KhalifaCommunityAPI\KhalifaCommunityAPI\KhalifaCommunityAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Developement\KhalifaCommunityAPI\KhalifaCommunityAPI\KhalifaCommunityAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
-C:\Users\Mahma\OneDrive\Desktop\KhalifaCommunityApi\KhalifaCommunityAPI\KhalifaCommunityAPI\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Mahma\OneDrive\Desktop\KhalifaCommunityApi\KhalifaCommunityAPI\KhalifaCommunityAPI\bin\Debug\net6.0\appsettings.json
 C:\Users\Mahma\OneDrive\Desktop\KhalifaCommunityApi\KhalifaCommunityAPI\KhalifaCommunityAPI\bin\Debug\net6.0\KhalifaCommunityAPI.exe
 C:\Users\Mahma\OneDrive\Desktop\KhalifaCommunityApi\KhalifaCommunityAPI\KhalifaCommunityAPI\bin\Debug\net6.0\KhalifaCommunityAPI.deps.json
 C:\Users\Mahma\OneDrive\Desktop\KhalifaCommunityApi\KhalifaCommunityAPI\KhalifaCommunityAPI\bin\Debug\net6.0\KhalifaCommunityAPI.runtimeconfig.json

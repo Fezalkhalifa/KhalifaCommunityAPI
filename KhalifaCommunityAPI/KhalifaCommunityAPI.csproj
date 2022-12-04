@@ -21,6 +21,8 @@
 		<None Include=".ebextensions\alb-default-process.config" />
 		<None Include=".ebextensions\env.config" />
 		<None Include=".ebextensions\logging.config" />
+		<Content Include="**\*.xml" Exclude="bin\**\*;obj\**\*"
+   CopyToOutputDirectory="PreserveNewest" />
 	</ItemGroup>
 
 </Project>
