@@ -10,18 +10,18 @@ phases:
   pre_build:
     commands:
       - echo Restore started on `date`
-      - dotnet restore KhalifaCommunityAPI.csproj
+      - dotnet restore KhalifaCommunityAPI/KhalifaCommunityAPI.csproj
       
   build:
     commands:
       - echo Build started on `date`
-      - dotnet build KhalifaCommunityAPI.csproj
+      - dotnet build KhalifaCommunityAPI/KhalifaCommunityAPI.csproj
       
   post_build:
     commands:
       - echo Publish started on `date`
       # https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/dotnet-linux-platform-bundle-app.html
-      - dotnet publish -c Release -r linux-x64 --self-contained false KhalifaCommunityAPI.csproj
+      - dotnet publish -c Release -r linux-x64 --self-contained false KhalifaCommunityAPI/KhalifaCommunityAPI.csproj
       
 artifacts:
   files:
