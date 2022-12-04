@@ -18,9 +18,9 @@
 		<PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.15.1" />
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
-		<None Include=".ebextensions\alb-default-process.config" CopyToOutputDirectory="Always" />
-		<None Include=".ebextensions\env.config" CopyToOutputDirectory="Always" />
-		<None Include=".ebextensions\logging.config" CopyToOutputDirectory="Always" />
+		<None Include=".ebextensions\alb-default-process.config" />
+		<None Include=".ebextensions\env.config" />
+		<None Include=".ebextensions\logging.config" />
 	</ItemGroup>
 
 </Project>

@@ -37,6 +37,13 @@ var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 //
+
+app.UseForwardedHeaders(new ForwardedHeadersOptions
+{
+    ForwardedHeaders = ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto
+});
+
+
 app.UseSwagger();
 app.UseSwaggerUI();
 //
