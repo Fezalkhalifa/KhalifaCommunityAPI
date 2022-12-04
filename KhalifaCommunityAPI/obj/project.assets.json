@@ -2470,11 +2470,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Developement\\KhalifaCommunityAPI\\KhalifaCommunityAPI\\KhalifaCommunityAPI\\KhalifaCommunityAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Mahma\\OneDrive\\Desktop\\KhalifaCommunityApi\\KhalifaCommunityAPI\\KhalifaCommunityAPI\\KhalifaCommunityAPI.csproj",
       "projectName": "KhalifaCommunityAPI",
-      "projectPath": "C:\\Developement\\KhalifaCommunityAPI\\KhalifaCommunityAPI\\KhalifaCommunityAPI\\KhalifaCommunityAPI.csproj",
+      "projectPath": "C:\\Users\\Mahma\\OneDrive\\Desktop\\KhalifaCommunityApi\\KhalifaCommunityAPI\\KhalifaCommunityAPI\\KhalifaCommunityAPI.csproj",
       "packagesPath": "C:\\Users\\Mahma\\.nuget\\packages\\",
-      "outputPath": "C:\\Developement\\KhalifaCommunityAPI\\KhalifaCommunityAPI\\KhalifaCommunityAPI\\obj\\",
+      "outputPath": "C:\\Users\\Mahma\\OneDrive\\Desktop\\KhalifaCommunityApi\\KhalifaCommunityAPI\\KhalifaCommunityAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahma\\AppData\\Roaming\\NuGet\\NuGet.Config",
