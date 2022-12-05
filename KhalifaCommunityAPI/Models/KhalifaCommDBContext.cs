@@ -17,7 +17,7 @@ namespace KhalifaCommunityAPI.Models
         }
 
         public virtual DbSet<Registration> Registrations { get; set; } = null!;
-        public virtual DbSet<User> Users { get; set; } = null!;
+        public virtual DbSet<User> User { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

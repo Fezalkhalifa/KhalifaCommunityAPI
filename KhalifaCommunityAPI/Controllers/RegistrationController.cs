@@ -48,7 +48,7 @@ namespace KhalifaCommunity.Controllers
                     oldData.Address = registration.Address;
                     oldData.City = registration.City;
                     oldData.Country = registration.Country;
-                    registration.Users.UpdatedDate = DateTime.Now;
+                    registration.User.UpdatedDate = DateTime.Now;
                     if (this._entities.SaveChanges() > 0)
                         return Response(MessageType.Success, $"Registration Details Updated Successfully");
                     else
@@ -57,7 +57,7 @@ namespace KhalifaCommunity.Controllers
                 else
                 {
                     registration.CreatedDate = DateTime.Now;
-                    registration.Users.CreatedDate = DateTime.Now;
+                    registration.User.CreatedDate = DateTime.Now;
                     this._entities.Registrations.Add(registration);
                     if (this._entities.SaveChanges() > 0)
                         return Response(MessageType.Success, $"Registration Details Updated Successfully");

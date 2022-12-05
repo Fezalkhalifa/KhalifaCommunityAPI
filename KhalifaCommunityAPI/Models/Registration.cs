@@ -7,7 +7,7 @@ namespace KhalifaCommunityAPI.Models
     {
         public Registration()
         {
-            Users = new User();
+            User = new User();
         }
 
         public int RegistrationId { get; set; }
@@ -20,6 +20,6 @@ namespace KhalifaCommunityAPI.Models
         public DateTime? CreatedDate { get; set; }
         public DateTime? UpdatedDate { get; set; }
 
-        public virtual User Users { get; set; }
+        public virtual User User { get; set; }
     }
 }
