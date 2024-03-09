@@ -1,5 +1,5 @@
-﻿# Based on https://github.com/PrakashTrove/AWS-CodeBuild-NetCore/blob/master/buildspec.yml
-# AWS CodeBuild spec to build an Elastic Beanstalk artifact for AWS CodePipeline to deploy
+﻿# Based on https://github.com/PrakashTrove/AWS-CodeBuild-NetCore/blob/master/buildspec.yml update for test CD
+# AWS CodeBuild spec to build an Elastic Beanstalk artifact for AWS CodePipeline to deploy re test
 version: 0.2
     
 phases:   
