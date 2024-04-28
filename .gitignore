@@ -1,4 +1,6 @@
-
+*.vs
 *.dll
 *.dll
 /.vs/KhalifaCommunityAPI/v17/.suo
+/.vs
+.vs/

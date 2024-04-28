@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KhalifaCommunityAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d04083772303f038a78d32741ac31c5ed647923c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("KhalifaCommunityAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KhalifaCommunityAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

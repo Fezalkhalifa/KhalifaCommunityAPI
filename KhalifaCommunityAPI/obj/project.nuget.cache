@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1duS84IE94Ne2ZNWY0yudlc3USFZfnmjgqxOg8GJ/bo1SYU2rPJGHmvWeUDWl2iNxvBtpgYEW0dlPM2pIHGKzA==",
+  "dgSpecHash": "7c9Qd9g1fzy+qtNlmPpviI6JT7ouoCCbbE7ufSB3AtICWZsI6OeWMYNmEwlmETVVPxVvC4NHA7+gRTAP2nHx0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahma\\OneDrive\\Desktop\\KhalifaCommunityApi\\KhalifaCommunityAPI\\KhalifaCommunityAPI\\KhalifaCommunityAPI.csproj",
+  "projectFilePath": "C:\\KhalifaCommunityApi\\KhalifaCommunityAPI\\KhalifaCommunityAPI\\KhalifaCommunityAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahma\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mahma\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.9\\microsoft.aspnetcore.jsonpatch.6.0.9.nupkg.sha512",

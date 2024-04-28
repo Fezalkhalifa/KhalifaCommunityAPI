@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app.kubernetes.io/name: awsapi
+    app.kubernetes.io/instance: awsapi-instance
+    app.kubernetes.io/version: '1.0.0'
+    app.kubernetes.io/managed-by: kubectl
+  name: awsapi-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: awsapi
+  template:
+    metadata:
+      labels:
+        app: awsapi
+    spec:
+      containers:
+        - image: 479473764844.dkr.ecr.us-east-1.amazonaws.com/khalifaapi
+          imagePullPolicy: Always
+          name: awsapi
+          ports:
+            - containerPort: 80
